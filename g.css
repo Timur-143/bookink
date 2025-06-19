@@ -1,0 +1,214 @@
+div.g{
+    width: 99%;
+    position: absolute;
+    height: 400px;
+    background-color: rgb(0, 0, 255);
+    margin-top: 10px;
+    margin-left: 1px;
+}
+h1.f{
+    margin-top: 10px;
+    margin-left: 1px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+}
+
+button.reg{
+    margin-top: 10px;
+    margin-left: 85%;
+    position: absolute;
+    height: 40px;
+    width: 200px;
+    color: blue;
+    font-weight: 700;
+}
+
+button.r{
+    margin-top: 10px;
+    margin-left: 69.80%;
+    position: absolute;
+    height: 40px;
+    width: 200px;
+    color: blue;
+    font-weight: 700;
+}
+
+button.v{
+    margin-top: 10px;
+    margin-left: 51%;
+    position: absolute;
+    height: 40px;
+    width: 250px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    background-color: blue;
+    border:1px solid rgb(255, 255, 255);
+}
+
+.v{
+    color: red;
+    transition: 0.3s ease-in-out;
+}
+
+.v:hover{
+    background-color: rgb(108, 108, 255);
+    transition: 0.3s ease-in-out;
+}
+
+button.h{
+    border-radius: 35px;
+    height: 50px;
+    width: 100px;
+    margin-top: 50px;
+    background-color: rgb(56, 56, 245);
+    border:1px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+button.d{
+    margin-top: 8px;
+    margin-left: 39%;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    border-radius: 100px;
+    background-color: blue;
+    border:2px solid rgb(255, 255, 255);
+}
+
+button.c{
+    border-radius: 35px;
+    height: 50px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 10px;
+    background-color: rgb(0, 0, 255);
+    border:1px solid rgb(0, 0, 255);
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.c{
+    color: red;
+    transition: 0.3s ease-in-out;
+}
+
+.c:hover{
+    background-color: rgb(58, 58, 255);
+    transition: 0.3s ease-in-out;
+}
+
+button.q{
+    border-radius: 35px;
+    height: 50px;
+    width: 110px;
+    margin-top: 50px;
+    margin-left: 20px;
+    background-color: rgb(0, 0, 255);
+    border:1px solid rgb(0, 0, 255);
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.q{
+    color: red;
+    transition: 0.3s ease-in-out;
+}
+
+.q:hover{
+    background-color: rgb(58, 58, 255);
+    transition: 0.3s ease-in-out;
+}
+
+button.a{
+    border-radius: 35px;
+    height: 50px;
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 10px;
+    background-color: rgb(0, 0, 255);
+    border:1px solid rgb(0, 0, 255);
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.a{
+    color: red;
+    transition: 0.3s ease-in-out;
+}
+
+.a:hover{
+    background-color: rgb(58, 58, 255);
+    transition: 0.3s ease-in-out;
+}
+
+button.x{
+    border-radius: 35px;
+    height: 50px;
+    width: 200px;
+    margin-top: 60px;
+    margin-left: 10px;
+    background-color: rgb(0, 0, 255);
+    border:1px solid rgb(0, 0, 255);
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.x{
+    color: red;
+    transition: 0.3s ease-in-out;
+}
+
+.x:hover{
+    background-color: rgb(58, 58, 255);
+    transition: 0.3s ease-in-out;
+}
+
+h1.w{
+    height: 20px;
+    width: 900px;
+    font-weight: 700;
+    color: azure;
+    margin-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1.k{
+    height: 20px;
+    width: 900px;
+    font-weight: 700;
+    margin-top: 0.1px;
+    margin-left: 10px;
+    color: azure;
+}
+
+div.yt{
+    position: absolute;
+    height: 100px;
+    width: 720px;
+    margin-top: 350px;
+    margin-left: 250px;
+    display: flex;
+    background-color: rgb(255, 85, 0);
+    border-radius: 20px;
+    border: 1px solid rgb(255, 85, 0);;
+}
+
+
+
+button.wq{
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+}
+
+input{
+    width: 130px;
+    height: 70px;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
