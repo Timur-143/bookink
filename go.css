@@ -1,0 +1,189 @@
+body{
+    background-image: url("piw.jpeg");
+}
+
+.sin{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(234, 255, 0);
+    border-radius: 100%;
+    position: relative;
+    top: 230px;
+    left: 580px;
+}
+
+.r{
+    width: 50px;
+    height:50px;
+    position: absolute;
+    top: 310px;
+    left: 660px;
+    background-color: chocolate;
+    border-radius: 100%;
+    animation: r 5s linear infinite;
+}
+
+@keyframes r {
+    from {
+
+        transform:rotate(0turn)translateY(-150px) translateY(0.1%) rotate(1turn);
+    }
+
+    to {
+        transform: rotate(1turn) translateY(-150px) translateY(0.1%) rotate(0turn);
+    }
+}
+
+.ven{
+    width: 70px;
+    height:70px;
+    position: absolute;
+    top: 310px;
+    left: 650px;
+    background-color: rgb(254, 237, 142);
+    border-radius: 100%;
+    animation: ven 10s linear infinite;
+}
+
+@keyframes ven {
+    from {
+
+        transform:rotate(0turn)translateY(250px) translateY(0.1%) rotate(1turn);
+    }
+
+    to {
+        transform: rotate(1turn) translateY(250px) translateY(0.1%) rotate(0turn);
+    }
+}
+
+.er{
+    width: 70px;
+    height:70px;
+    position: absolute;
+    top: 310px;
+    left: 650px;
+    background-color: rgb(65, 211, 255);
+    border-radius: 100%;
+    animation: er 15s linear infinite;
+}
+
+@keyframes er {
+    from {
+
+        transform:rotate(0turn)translateY(-350px) translateY(0.1%) rotate(1turn);
+    }
+
+    to {
+        transform: rotate(1turn) translateY(-350px) translateY(0.1%) rotate(0turn);
+    }
+}
+
+.mars{
+    width: 70px;
+    height:70px;
+    position: absolute;
+    top: 310px;
+    left: 650px;
+    background-color: rgb(255, 120, 120);
+    border-radius: 100%;
+    animation: mars 25s linear infinite;
+}
+
+@keyframes mars {
+    from {
+
+        transform:rotate(0turn)translateY(450px) translateY(0.1%) rotate(1turn);
+    }
+
+    to {
+        transform: rotate(1turn) translateY(450px) translateY(0.1%) rotate(0turn);
+    }
+}
+
+.j{
+    width: 100px;
+    height:100px;
+    position: absolute;
+    top: 300px;
+    left: 640px;
+    background-color: rgb(188, 195, 111);
+    border-radius: 100%;
+    animation: j 30s linear infinite;
+}
+
+@keyframes j {
+    from {
+
+        transform:rotate(0turn)translateY(-550px) translateY(0.1%) rotate(1turn);
+    }
+
+    to {
+        transform: rotate(1turn) translateY(-550px) translateY(0.1%) rotate(0turn);
+    }
+}
+
+.s{
+    width: 100px;
+    height:100px;
+    position: absolute;
+    top: 300px;
+    left: 640px;
+    background-color: rgb(252, 252, 106);
+    border-radius: 100%;
+    animation: s 30s linear infinite;
+}
+
+@keyframes s {
+    from {
+
+        transform:rotate(0turn)translateY(650px) translateY(0.1%) rotate(1turn);
+    }
+
+    to {
+        transform: rotate(1turn) translateY(650px) translateY(0.1%) rotate(0turn);
+    }
+}
+
+.y{
+    width: 70px;
+    height:70px;
+    position: absolute;
+    top: 310px;
+    left: 650px;
+    background-color: rgb(172, 226, 255);
+    border-radius: 100%;
+    animation: y 10s linear infinite;
+}
+
+@keyframes y {
+    from {
+
+        transform:rotate(0turn)translateY(-750px) translateY(0.1%) rotate(1turn);
+    }
+
+    to {
+        transform: rotate(1turn) translateY(-750px) translateY(0.1%) rotate(0turn);
+    }
+}
+
+.n{
+    width: 70px;
+    height:70px;
+    position: absolute;
+    top: 310px;
+    left: 650px;
+    background-color: rgb(30, 0, 255);
+    border-radius: 100%;
+    animation: n 10s linear infinite;
+}
+
+@keyframes n {
+    from {
+
+        transform:rotate(0turn)translateY(850px) translateY(0.1%) rotate(1turn);
+    }
+
+    to {
+        transform: rotate(1turn) translateY(850px) translateY(0.1%) rotate(0turn);
+    }
+}
